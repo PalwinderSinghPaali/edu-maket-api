@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+
+# Next.js build output
+.next
+out
+
+
+*.log
+logs/
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Stores VSCode versions used for testing VSCode extensions
+
+/upload/*
+
+# dotenv environment variables file
+.env
+.env*.local
+.env*.development
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
